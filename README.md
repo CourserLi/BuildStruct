@@ -4,7 +4,7 @@
 
 ## APP 介绍
 
-**"构筑天地"，来源于古诗词《南乡子·西塞山》中的"天地构筑夫"，亦有数据结构之韵，兼算法之美，助力学生建筑一片知识的天地。它是一款学习类软件，**
+**"构筑天地"，来源于古诗词《南乡子·西塞山》中的"天地构筑夫"，亦有数据结构之韵，兼算法之美，助力学生建筑一片知识的天地。它是一款学习类软件，软件功能全面，涵盖了数据结构的可视化视频、详细介绍和学习路线，并有相关的书籍推荐，相对全面地为用户提供一条合适的路**
 
 软件具备功能：
 
@@ -17,12 +17,9 @@
 
 #### 部分软件截图
 
-<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4TDs.jpg"></div>
-
-<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4bEq.jpg"></div>
-
-<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4L5V.jpg"></div>
-
+| 注册页面 | 主页面（展开菜单） | 关于页面 |
+|--|--|--|
+| <img src="https://s1.ax1x.com/2022/12/21/zO4TDs.jpg" /> | <img src="https://s1.ax1x.com/2022/12/21/zO4bEq.jpg" /> | <img src="https://s1.ax1x.com/2022/12/21/zO4L5V.jpg" /> |
 
 ## APP 使用方式
 
