@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="主页" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="个人信息" />
+
+    <item android:title="个性化">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/style"
+                    android:icon="@drawable/ic_style"
+                    android:title="切换风格" />
+                <item
+                    android:id="@+id/typeface"
+                    android:icon="@drawable/ic_typeface"
+                    android:title="调节字体" />
+                <item
+                    android:id="@+id/language"
+                    android:icon="@drawable/ic_rate"
+                    android:title="更换语言" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="设置">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_about"
+                    android:title="关于" />
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="退出登入" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
