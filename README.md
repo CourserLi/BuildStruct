@@ -1,6 +1,6 @@
 # 构筑天地
 
-![begin](D:\Cache\Typora_Pictures\begin.jpg)
+<div align=center><img src="https://github.com/CourserLi/BuildStruct/blob/main/pic/begins.gif"></div>
 
 ## APP 介绍
 
@@ -17,11 +17,12 @@
 
 #### 部分软件截图
 
-![register](D:\Cache\Typora_Pictures\register.jpg)
+<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4TDs.jpg"></div>
 
-![menu](D:\Cache\Typora_Pictures\menu.jpg)
+<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4bEq.jpg"></div>
 
-![about](D:\Cache\Typora_Pictures\about.jpg)
+<div align=center><img src="https://s1.ax1x.com/2022/12/21/zO4L5V.jpg"></div>
+
 
 ## APP 使用方式
 
